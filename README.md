@@ -15,6 +15,7 @@ Add this block of code where you want the recaprcha to be rendered
 
 ### Site Key
 You can register your key [here](https://www.google.com/recaptcha/admin/create)
+
 Put your site key in the red tag
 
 <img src="docs/img/recaptcha.PNG" style="width: 100%">
